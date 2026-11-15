@@ -7,10 +7,10 @@ Artificial Intelligence student at Technische Hochschule Deggendorf (THD) in Ger
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [EDUFLOW](https://github.com/HusseinHany/EDUFLOW) | Personalized learning path generator: course recommendations and weekly scheduling | C++, AVL tree, BST, graph |
-| [Student-Managment-System](https://github.com/HusseinHany/Student-Managment-System) | Student grade system with sorting, searching and algorithm benchmarks | C++ |
-| [Data-Analysis-Project-](https://github.com/HusseinHany/Data-Analysis-Project-) | Graduation project: cleaning banking and customer data, with a Power BI report | Python, pandas, Power BI |
+| [Student-Management-System](https://github.com/HusseinHany/Student-Management-System) | Student grade system with sorting, searching and algorithm benchmarks | C++ |
+| [Data-Analysis-Project](https://github.com/HusseinHany/Data-Analysis-Project) | Graduation project: cleaning banking and customer data, with a Power BI report | Python, pandas, Power BI |
 | [Sales](https://github.com/HusseinHany/Sales) | Sales dashboards and analysis | Excel |
-| [EscapeRoomBookingSystem-](https://github.com/HusseinHany/EscapeRoomBookingSystem-) | Booking system for an escape room facility | C#, Windows Forms, SQL Server |
+| [EscapeRoomBookingSystem](https://github.com/HusseinHany/EscapeRoomBookingSystem) | Booking system for an escape room facility | C#, Windows Forms, SQL Server |
 | [Portfolio site](https://husseinhany.github.io) | My personal site | HTML, CSS, JavaScript |
 
 ## What I work with
