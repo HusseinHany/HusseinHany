@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img src="assets/header.svg" width="100%" alt="Hussein Mansour. Artificial Intelligence student at TH Deggendorf, Germany. C++ and data structures, web development, data analysis.">
+    <img src="assets/header.svg" width="100%" alt="Hussein Hany. Artificial Intelligence student at TH Deggendorf, Germany. C++ and data structures, web development, data analysis.">
   </picture>
 </p>
 

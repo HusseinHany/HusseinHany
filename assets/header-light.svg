@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="t d">
-  <title id="t">Hussein Mansour</title>
+  <title id="t">Hussein Hany</title>
   <desc id="d">Artificial Intelligence student at TH Deggendorf, Germany. C++ and data structures, web development, and data analysis.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -33,7 +33,7 @@
       <animate attributeName="cx" dur="16s" repeatCount="indefinite" values="140;320;140"/>
     </circle>
     <text x="72" y="88" class="hello">HELLO, I'M</text>
-    <text x="68" y="166" class="name">Hussein Mansour</text>
+    <text x="68" y="166" class="name">Hussein Hany</text>
     
   <clipPath id="clip0"><rect x="72" y="206" width="0" height="38">
     <animate attributeName="width" dur="16.0s" begin="0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.00335;0.00670;0.01004;0.01339;0.01674;0.02009;0.02344;0.02679;0.03013;0.03348;0.03683;0.04018;0.04353;0.04688;0.05022;0.05357;0.05692;0.06027;0.06362;0.06696;0.07031;0.07366;0.07701;0.08036;0.08371;0.08705;0.09040;0.09375;0.20000;0.20134;0.20268;0.20402;0.20536;0.20670;0.20804;0.20938;0.21071;0.21205;0.21339;0.21473;0.21607;0.21741;0.21875;0.22009;0.22143;0.22277;0.22411;0.22545;0.22679;0.22813;0.22946;0.23080;0.23214;0.23348;0.23482;0.23616;0.23750;1.00000" values="0.0;15.6;31.2;46.8;62.4;78.0;93.6;109.2;124.8;140.4;156.0;171.6;187.2;202.8;218.4;234.0;249.6;265.2;280.8;296.4;312.0;327.6;343.2;358.8;374.4;390.0;405.6;421.2;436.8;436.8;421.2;405.6;390.0;374.4;358.8;343.2;327.6;312.0;296.4;280.8;265.2;249.6;234.0;218.4;202.8;187.2;171.6;156.0;140.4;124.8;109.2;93.6;78.0;62.4;46.8;31.2;15.6;0.0;0.0"/>
