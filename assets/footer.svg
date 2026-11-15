@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="">
+  <defs>
+    <linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#00c896"/><stop offset="1" stop-color="#2fffc0"/></linearGradient>
+    <linearGradient id="w2" x1="0" x2="1"><stop offset="0" stop-color="#f5c842"/><stop offset="1" stop-color="#00c896"/></linearGradient>
+  </defs>
+  <g opacity="0.35"><path fill="url(#w2)" d="M0 60 Q150 20 300 60 T600 60 T900 60 T1200 60 T1500 60 T1800 60 T2100 60 T2400 60 V110 H0 Z">
+    <animateTransform attributeName="transform" type="translate" dur="9s" repeatCount="indefinite" values="-1200 0;0 0"/></path></g>
+  <g opacity="0.75"><path fill="url(#w1)" d="M0 72 Q150 44 300 72 T600 72 T900 72 T1200 72 T1500 72 T1800 72 T2100 72 T2400 72 V110 H0 Z">
+    <animateTransform attributeName="transform" type="translate" dur="6s" repeatCount="indefinite" values="0 0;-1200 0"/></path></g>
+</svg>
