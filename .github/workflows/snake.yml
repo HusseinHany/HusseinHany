@@ -1,0 +1,35 @@
+name: Contribution snake
+
+# Rebuilds the animated contribution graph shown in the profile README.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # Pinned to the commit of release v3.5.0.
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#2fffc0&color_dots=#161b22,#0b4a3b,#0f7a5f,#00a87e,#2fffc0
+            dist/snake-light.svg?color_snake=#b98a00&color_dots=#ebedf0,#b7ead9,#6fd3b4,#1fae86,#007a5a
+
+      - name: Publish to the output branch
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "Update contribution snake"
+          git push -f -q "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
