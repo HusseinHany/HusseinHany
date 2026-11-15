@@ -108,6 +108,16 @@ My personal site, built without a framework, with light and dark mode and scroll
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
+## 🐍 My contributions, eaten daily
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HusseinHany/HusseinHany/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HusseinHany/HusseinHany/output/snake-light.svg">
+    <img src="https://raw.githubusercontent.com/HusseinHany/HusseinHany/output/snake-dark.svg" width="100%" alt="Animation of a snake moving across my GitHub contribution graph.">
+  </picture>
+</p>
+
 ## 📫 Get in touch
 
 hussein27007@gmail.com · [LinkedIn](https://www.linkedin.com/in/husseindarwesh) · [Portfolio](https://husseinhany.github.io)
