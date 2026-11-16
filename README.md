@@ -55,18 +55,18 @@ Cleaning banking and customer data with pandas, documented step by step, with a 
 
 `Python` `pandas` `Jupyter` `Power BI`
 
-**[See the live dashboard →](https://husseinhany.github.io/Data-Analysis-Project/)** · **[Open the repository →](https://github.com/HusseinHany/Data-Analysis-Project)**
+**[See the live dashboard →](https://husseinhany.github.io/Data-Analysis-Project/)** · **[Live dashboard →](https://husseinhany.github.io/Data-Analysis-Project/)** · **[Open the repository →](https://github.com/HusseinHany/Data-Analysis-Project)**
 </details>
 
 <details>
-<summary><b>📈 Sales</b> · dashboards in Excel</summary>
+<summary><b>📈 Sales Analytics</b> · Excel and a live dashboard</summary>
 <br>
 
-Two workbooks: a 1996 to 1998 sales dashboard built on pivot tables, and a product-line sales analysis.
+Two datasets analysed in Excel and rebuilt as an interactive web dashboard: Northwind orders 1996–1998 ($1.27M) and Candy Line sales 2003–2005 ($10.03M). Filter by year, region or product line and click any bar to drill down.
 
-`Excel` `pivot tables` `dashboards`
+`Excel` `pivot tables` `JavaScript` `Chart.js` `Python`
 
-**[Open the repository →](https://github.com/HusseinHany/Sales)**
+**[Live dashboard →](https://husseinhany.github.io/Sales/)** · **[Open the repository →](https://github.com/HusseinHany/Sales)**
 </details>
 
 <details>
