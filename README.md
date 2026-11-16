@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img src="assets/header.svg" width="100%" alt="Hussein Hany. Artificial Intelligence student at TH Deggendorf, Germany. C++ and data structures, web development, data analysis.">
+    <img src="assets/header.svg" width="100%" alt="Hussein Hany. Artificial Intelligence student at TH Deggendorf, Germany. C++ and data structures, Python, SQL and data analysis.">
   </picture>
 </p>
 
@@ -23,11 +23,13 @@
 
 ## 🚀 Projects
 
-Click a project to open it.
+Click a project to open it. Each preview is animated; click it to go to the project.
 
 <details open>
 <summary><b>🎓 EDUFLOW</b> · personalized learning path generator</summary>
 <br>
+
+<a href="https://github.com/HusseinHany/EDUFLOW"><img src="assets/projects/eduflow.svg" width="100%" alt="EDUFLOW animated preview"></a>
 
 Scores courses for each student, orders them by prerequisites and builds a weekly schedule. Student, admin and counselor interfaces, with data saved to files.
 
@@ -40,6 +42,8 @@ Scores courses for each student, orders them by prerequisites and builds a weekl
 <summary><b>📚 Student Management System</b> · sorting algorithms, measured</summary>
 <br>
 
+<a href="https://github.com/HusseinHany/Student-Management-System"><img src="assets/projects/student.svg" width="100%" alt="Student Management System animated preview"></a>
+
 A student grade system that compares five sorting algorithms on up to 100,000 records, counting comparisons and swaps, with search, statistics and an AVL tree.
 
 `C++` `sorting` `searching` `AVL tree` `benchmarks`
@@ -50,6 +54,8 @@ A student grade system that compares five sorting algorithms on up to 100,000 re
 <details>
 <summary><b>🏦 Bank System</b> · roles, transfers and a class hierarchy</summary>
 <br>
+
+<a href="https://github.com/HusseinHany/Bank_System"><img src="assets/projects/bank.svg" width="100%" alt="Bank System animated preview"></a>
 
 A console banking system where admins manage employees, employees open client accounts, and clients deposit, withdraw and transfer money. Client, Employee and Admin inherit from a shared Person class; passwords are hashed and every action is logged.
 
@@ -62,16 +68,20 @@ A console banking system where admins manage employees, employees open client ac
 <summary><b>📊 Data Analysis Project</b> · graduation project</summary>
 <br>
 
+<a href="https://husseinhany.github.io/Data-Analysis-Project/"><img src="assets/projects/data360.svg" width="100%" alt="Enterprise Data 360 dashboard animated preview"></a>
+
 Cleaning banking and customer data with pandas, documented step by step, with a Power BI report and a web dashboard.
 
 `Python` `pandas` `Jupyter` `Power BI`
 
-**[See the live dashboard →](https://husseinhany.github.io/Data-Analysis-Project/)** · **[Live dashboard →](https://husseinhany.github.io/Data-Analysis-Project/)** · **[Open the repository →](https://github.com/HusseinHany/Data-Analysis-Project)**
+**[Live dashboard →](https://husseinhany.github.io/Data-Analysis-Project/)** · **[Open the repository →](https://github.com/HusseinHany/Data-Analysis-Project)**
 </details>
 
 <details>
 <summary><b>📈 Sales Analytics</b> · Excel and a live dashboard</summary>
 <br>
+
+<a href="https://husseinhany.github.io/Sales/"><img src="assets/projects/sales.svg" width="100%" alt="Sales dashboard animated preview"></a>
 
 Two datasets analysed in Excel and rebuilt as an interactive web dashboard: Northwind orders 1996–1998 ($1.27M) and Candy Line sales 2003–2005 ($10.03M). Filter by year, region or product line and click any bar to drill down.
 
@@ -81,10 +91,12 @@ Two datasets analysed in Excel and rebuilt as an interactive web dashboard: Nort
 </details>
 
 <details>
-<summary><b>🔐 Escape Room Booking System</b> · desktop app</summary>
+<summary><b>🔐 Escape Room Management System</b> · desktop app</summary>
 <br>
 
-A booking system for an escape room facility that prevents double bookings and enforces room capacity.
+<a href="https://github.com/HusseinHany/EscapeRoomBookingSystem"><img src="assets/projects/escape.svg" width="100%" alt="Escape Room Management System animated preview"></a>
+
+A desktop app for an escape room business: themed rooms, bookings with filters, revenue reports and a customer leaderboard. I designed and built it from A to Z, from the database to every screen.
 
 `C#` `Windows Forms` `SQL Server`
 
