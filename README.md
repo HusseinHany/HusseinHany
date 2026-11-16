@@ -17,7 +17,7 @@
 
 - 🎓 Studying Artificial Intelligence at Technische Hochschule Deggendorf (THD) since October 2026
 - 🧱 I like building software from the data structure up: trees, graphs and algorithms in C++
-- 🌐 On the web I work with Vue.js, Node.js and MongoDB
+- 🌐 I turn analysis into interactive web dashboards with JavaScript and Chart.js
 - 📊 For data I use Python, pandas, Power BI and Excel
 - 🎥 I run **Hussein 2 Germany**, videos in Egyptian Arabic about studying and living in Germany
 
@@ -110,9 +110,9 @@ My personal site, built without a framework, with light and dark mode and scroll
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" alt="C#">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel">
