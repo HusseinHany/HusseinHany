@@ -65,6 +65,19 @@ A console banking system where admins manage employees, employees open client ac
 </details>
 
 <details>
+<summary><b>💰 Finance Flare</b> · personal finance manager, team project</summary>
+<br>
+
+<a href="https://github.com/HusseinHany/Finance-Flare"><img src="assets/projects/finance.svg" width="100%" alt="Finance Flare animated preview"></a>
+
+Income, expenses, 20 investment options with expected returns, and animated terminal reports. Built by Byte Masters, a team of six; my fork fixes the menu freezes and the investment mix-ups and adds the animations.
+
+`C++` `OOP` `inheritance` `file I/O`
+
+**[Open the repository →](https://github.com/HusseinHany/Finance-Flare)**
+</details>
+
+<details>
 <summary><b>📊 Data Analysis Project</b> · graduation project</summary>
 <br>
 
