@@ -51,11 +51,11 @@ A student grade system that compares five sorting algorithms on up to 100,000 re
 <summary><b>📊 Data Analysis Project</b> · graduation project</summary>
 <br>
 
-Cleaning banking and customer data with pandas, documented step by step, with a Power BI report.
+Cleaning banking and customer data with pandas, documented step by step, with a Power BI report and a web dashboard.
 
 `Python` `pandas` `Jupyter` `Power BI`
 
-**[Open the repository →](https://github.com/HusseinHany/Data-Analysis-Project)**
+**[See the live dashboard →](https://husseinhany.github.io/Data-Analysis-Project/)** · **[Open the repository →](https://github.com/HusseinHany/Data-Analysis-Project)**
 </details>
 
 <details>
