@@ -48,6 +48,17 @@ A student grade system that compares five sorting algorithms on up to 100,000 re
 </details>
 
 <details>
+<summary><b>🏦 Bank System</b> · roles, transfers and a class hierarchy</summary>
+<br>
+
+A console banking system where admins manage employees, employees open client accounts, and clients deposit, withdraw and transfer money. Client, Employee and Admin inherit from a shared Person class; passwords are hashed and every action is logged.
+
+`C++` `OOP` `inheritance` `file I/O`
+
+**[Open the repository →](https://github.com/HusseinHany/Bank_System)**
+</details>
+
+<details>
 <summary><b>📊 Data Analysis Project</b> · graduation project</summary>
 <br>
 
